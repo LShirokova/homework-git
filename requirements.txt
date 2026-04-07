@@ -1,2 +1,4 @@
+# Requires Python 3.11.9
+
 numpy==2.4.3
 pandas==3.0.1
