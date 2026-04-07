@@ -1,6 +1,6 @@
 # Структура проекта
-.gitignore
-requirements.txt - зависимости проекта
+- .gitignore
+- requirements.txt - зависимости проекта
 
 
 # Старт
